@@ -1,4 +1,3 @@
-<img width="1708" height="878" alt="image" src="https://github.com/user-attachments/assets/8f69f986-de63-47db-85f2-8a89e9609f1a" /># EX-NO-9-RSA-Algorithm
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
